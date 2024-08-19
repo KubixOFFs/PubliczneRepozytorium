@@ -1,5 +1,8 @@
 # PubliczneRepozytorium
-PubliczneRepozytorium
 
-./yourshell - zawiera skrypt powloki do wyswietlania informacji o branch name (branch)
-dodaje linijke
+Moje publiczne repozytorium zawierające Cztery projekty napisane w języku C++/Cli, przy pomocy Visual Studio Community i platformy .NET
+
+- Kalkulator -
+- Kółko i krzyżyk -
+- Gra typu arkanoid -
+- System do zarządzania przedsiębirostwem z baządanych MySQL - //Ciągle w budowie
