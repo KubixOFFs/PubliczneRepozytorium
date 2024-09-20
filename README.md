@@ -5,4 +5,4 @@ Moje publiczne repozytorium zawierające Cztery projekty napisane w języku C++/
 - Kalkulator -
 - Kółko i krzyżyk -
 - Gra typu arkanoid -
-- System do zarządzania przedsiębirostwem z baządanych MySQL - //Ciągle w budowie
+- System do zarządzania przedsiębirostwem z bazą danych MySQL - //Ciągle w budowie
